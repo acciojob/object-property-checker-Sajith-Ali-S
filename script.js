@@ -5,6 +5,7 @@ function hasKey(key) {
   	 if(sampleObject{i}==key)return true
   }
 	return false
+	
 }
 
 //Do not change the code below
